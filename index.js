@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["PP Essen auf die 1","#GenauMeinFall"];
+const statusMessages = ["PD auf die 1","#ToProtectAndToServe","PD = Staatsmacht"];
 
 
 let currentIndex = 0;
